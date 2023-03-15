@@ -2,7 +2,7 @@
 #### Hope you are having a wonderful day. 🌈
 
 
-I am a trained front end web application developer, having hands-on experience developing frontend web applications
+I am a trained front end web application developer, having hands-on experience developing web applications
 using technologies as below 
 - React.js, 
 - JavaScript , 
