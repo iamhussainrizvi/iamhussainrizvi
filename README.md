@@ -1,7 +1,9 @@
-# Greetings! 👋 i am Hussain 
+# Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp; i am Hussain 
 #### 🌈 Hope you are having a wonderful day.  
 
 ## 🚀 About Me
+<img align="right" alt="GIF" src="https://github.com/iamhussainrizvi/iamhussainrizvi/blob/main/javascript.gif" width="420" />
+
 
 - a front-end web application developer who is also a team player and a problem solver.
 - committed to developing a thorough understanding of frontend technologies.
