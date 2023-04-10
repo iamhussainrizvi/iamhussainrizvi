@@ -3,9 +3,11 @@
 
 ## 🚀 About Me
 
-- I am a front-end web application developer, problem solver, and a team player.
-- I am focused on building a deep understanding of frontend technologies.
-- I am skilled at solving algorithmic problems using appropriate Data structures while minimizing the space and time complexities. 
+- a front-end web application developer who is also a team player and a problem solver.
+- committed to developing a thorough understanding of frontend technologies.
+- adept at minimising the space and time complexities while using the appropriate Data structures to solve algorithmic problems. 
+- Despite being a freshmen in technology, I have 5 years of combined work experience in non-IT fields. primarily in customer service and online tutoring.
+- I'm an enthusiastic programmer. I enjoy building intricate logics to solve real-world problems, which is why I want to pursue a career in this field.
 
 ## Skills 👨‍💻
 - React.js, 
@@ -16,8 +18,8 @@
 
 
 ## 🎯 My Goals 
-- My short-term goal is to find a challenging job as an entry-level software developer, and excel at my work. 
-- my long-term goal is to become a subject matter expert in full stack web development by regularly returning to the fundamentals, and applying my skills and knowledge for the benefit and growth of my organisation.
+- My short-term objective is to work hard and find a challenging position as an entry-level software developer.. 
+- My long-term objective is to become a subject matter expert in full stack web development by regularly going back to the basics and using my abilities to advance my company.
 
 ## 🔗 connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalbe-hussain-rizvi/)
