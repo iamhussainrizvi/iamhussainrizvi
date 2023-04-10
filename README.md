@@ -1,5 +1,5 @@
 # Greetings! 👋 i am Hussain 
-####  Hope you are having a wonderful day. 🌈 
+#### 🌈 Hope you are having a wonderful day.  
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@
 - Despite being a freshmen in technology, I have 5 years of combined work experience in non-IT fields. primarily in customer service and online tutoring.
 - I'm an enthusiastic programmer. I enjoy building intricate logics to solve real-world problems, which is why I want to pursue a career in this field.
 
-## Skills 👨‍💻
+## 👨‍ My Skills 💻
 - React.js, 
 - react-router
 - redux.js
