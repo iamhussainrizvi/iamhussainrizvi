@@ -2,7 +2,7 @@
 #### 🌈 Hope you are having a wonderful day.  
 
 ## 🚀 About Me
-<img align="right" alt="GIF" src="https://github.com/iamhussainrizvi/iamhussainrizvi/blob/main/javascript.gif" width="300" />
+<img align="right" alt="GIF" src="https://github.com/iamhussainrizvi/iamhussainrizvi/blob/main/javascript.gif" width="420" />
 
 
 - a front-end web application developer who is also a team player and a problem solver.
