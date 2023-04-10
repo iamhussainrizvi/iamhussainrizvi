@@ -1,18 +1,19 @@
-# Greetings! i am Hussain 👋
-#### Hope you are having a wonderful day. 🌈
+# Greetings! 👋 i am Hussain 
+####  Hope you are having a wonderful day. 🌈 
 
 ## 🚀 About Me
 
-I am a front-end web application developer, problem solver, and a team player. 
-Tech that i use :
+- I am a front-end web application developer, problem solver, and a team player.
+- I am focused on building a deep understanding of frontend technologies.
+- I am skilled at solving algorithmic problems using appropriate Data structures while minimizing the space and time complexities. 
+
+## Skills 👨‍💻
 - React.js, 
 - react-router
 - redux.js
-- JavaScript , 
-- HTML and CSS. 
+- JavaScript (ES6) , 
+- HTMLS and CSS3. 
 
-I am focused on building a deep understanding of frontend technologies.
-I am skilled at solving algorithmic problems using appropriate Data structures while minimizing the space and time complexities. 
 
 ## 🎯 My Goals 
 - My short-term goal is to find a challenging job as an entry-level software developer, and excel at my work. 
