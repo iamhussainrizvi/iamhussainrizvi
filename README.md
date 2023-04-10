@@ -1,8 +1,8 @@
-# Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp; i am Hussain 
+# Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp; i am Hussain . 
 #### 🌈 Hope you are having a wonderful day.  
 
 ## 🚀 About Me
-<img align="right" alt="GIF" src="https://github.com/iamhussainrizvi/iamhussainrizvi/blob/main/javascript.gif" width="420" />
+<img align="right" alt="GIF" src="https://github.com/iamhussainrizvi/iamhussainrizvi/blob/main/javascript.gif" width="380" />
 
 
 - a front-end web application developer who is also a team player and a problem solver.
@@ -10,6 +10,7 @@
 - adept at minimising the space and time complexities while using the appropriate Data structures to solve algorithmic problems. 
 - Despite being a freshmen in technology, I have 5 years of combined work experience in non-IT fields. primarily in customer service and online tutoring.
 - I'm an enthusiastic programmer. I enjoy building intricate logics to solve real-world problems, which is why I want to pursue a career in this field.
+
 
 ## 👨‍💻 My Skills 💻
 - React.js, 
@@ -23,6 +24,8 @@
 - My short-term objective is to work hard and find a challenging position as an entry-level software developer.. 
 - My long-term objective is to become a subject matter expert in full stack web development by regularly going back to the basics and using my abilities to advance my company.
 
+
+Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. Thank you for your consideration.
 ## 🔗 connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalbe-hussain-rizvi/)
 
